@@ -3,7 +3,7 @@
 <p>O objetivo desse exemplo é utilizar o Azure Blob Storage em uma aplicação NestsJs.</p>
 
 ## Como usar
-<p>Primeiramente, é necessário instalar o pacote '[@azure/storage-blob](https://www.npmjs.com/package/@azure/storage-blob)', que é responsável por fazer a interface com o serviço da Azure.</p>
+Primeiramente, é necessário instalar o pacote '[azure/storage-blob](https://www.npmjs.com/package/@azure/storage-blob)', que é responsável por fazer a interface com o serviço da Azure
 <p>Neste exemplo, foi implementado um método para realizar o upload do arquivo e outro método para gerar uma URL de acesso ao arquivo desejado.</p>
   
 - UPLOAD
